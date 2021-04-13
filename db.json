@@ -149,6 +149,18 @@
       "name":"Breakfast with cottage",
       "type":"fruit",
       "price":14.05
+   },
+   {
+      "id": 46,
+      "name": "Ground beef",
+      "type": "meat",
+      "price": 11.73
+   },
+   {
+      "id": 37,
+      "name": "Tofu",
+      "type": "vegan",
+      "price": 28.96
    }
    ],
    "profile": {
